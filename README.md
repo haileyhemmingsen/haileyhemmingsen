@@ -5,7 +5,7 @@
 - **App Developer Intern @ Plant Culture Systems (May 2024 - Present)**: Implementing filtering search functionality to Marketplace feature and standardizing UI to follow Figma prototype. Sourced over 1000 documents of training data to teach an OpenAI model assistant in ChatGPT Playground to answer common agriculture, gardening, and farming questions.
 - **Software Developer Intern, UCSC Baskin Engineering Research Lab (September 2023 - December 2024)**: Collaborated with PhD students to develop enhanced features and logic in interactive data visualization tool (INSPECT). Graphically represent and trace a player’s journey defined by their choices made in a video game data set. Engineered interactive feature for users to trace most/least followed paths based on frequency from data set.
 - **R&D Engineer Intern, Parker Hannifin (July 2024 – September 2024)**: Programmed a Python application-based software (Dynamometer Controller) to communicate and control different components of a dynamometer system simultaneously to enhance efficiency of testing devices and data collection. Established communication with motor inverter using CAN protocol to read and send data and commands to inverter. Collaborated with a cross functional team of engineers following Agile methodologies and practices.
-- Learn more about me on [[my website]]!
+- Learn more about me on [[my website](https://haileyhemmingsen.github.io/website/)]!
 - 📫 How to reach me: [[LinkedIn](https://www.linkedin.com/in/haileyhemmingsen/)]
 
 ## 🛠️ Languages and Tools
